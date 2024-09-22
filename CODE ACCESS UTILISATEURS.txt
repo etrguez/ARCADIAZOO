@@ -1,0 +1,7 @@
+UTILISATEURS 
+
+jose@arcadia.fr mdp = josearcadia
+camille@perez.fr mdp = camilleperez
+marie@dupont.fr  mdp= mariedupont
+bruno@silva.fr mdp = brunosilva
+john@doe.fr mdp = johndoe
